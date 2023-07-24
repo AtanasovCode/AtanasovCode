@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AtanasovCode
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React.js 
-- 💞️ I’m currently not looking to collaborate
+- Frontend Web Developer
+- Reactjs
